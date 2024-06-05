@@ -1,16 +1,14 @@
-## Hi there 👋
+# [Yagnesh Sabhani](Yagnesh-sabhani)
 
-<!--
-**Yagnesh-sabhani/Yagnesh-sabhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a computer science engineering student with a growing passion for coding, especially in Java and Data Structures & Algorithms (DSA). This repository serves as a playground for my learning journey, where I experiment and solidify my understanding.
 
-Here are some ideas to get you started:
+**Currently Exploring:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Java:** Deepening my grasp of core Java concepts, object-oriented programming principles, and building robust applications.
+* **Data Structures & Algorithms (DSA):** Mastering fundamental algorithms and data structures to tackle complex problems efficiently and elegantly.
+
+**Looking Forward To:**
+
+* **Building Full-Stack Web Applications:** Combining my knowledge of Java, DSA, and potentially frontend technologies like HTML, CSS, and JavaScript to create comprehensive, user-friendly web experiences.
+* **Contributing to Open-Source Projects:** Giving back to the developer community by collaborating on projects that align with my interests and enhance my skills.
+
